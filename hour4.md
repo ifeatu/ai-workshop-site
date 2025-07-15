@@ -6,7 +6,7 @@ title: Hour 4 - Future-Proofing Your Capabilities
 # Hour 4: Future-Proofing Your Capabilities
 ## Building AI-Resistant Skills for Tomorrow
 
-[← Back to Home](/) | [← Hour 3](/hour3) | [Hour 5 →](/hour5)
+[← Back to Home]({{ '/' | relative_url }}) | [← Hour 3]({{ '/hour3' | relative_url }}) | [Hour 5 →]({{ '/hour5' | relative_url }})
 
 ### The Reality Check
 
@@ -236,7 +236,7 @@ In our final hour, we'll integrate everything into your personal AI strategy. Co
 - What boundaries will you set with AI?
 - How will you continue developing after this workshop?
 
-[Continue to Hour 5: Your Personal AI Strategy →](/hour5)
+[Continue to Hour 5: Your Personal AI Strategy →]({{ '/hour5' | relative_url }})
 
 ---
 

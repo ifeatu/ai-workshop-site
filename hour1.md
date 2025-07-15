@@ -6,7 +6,7 @@ title: Hour 1 - The AI Mirror
 # Hour 1: The AI Mirror
 ## Building Your Foundation
 
-[← Back to Home](/)
+[← Back to Home]({{ '/' | relative_url }})
 
 ### Opening Reality Check
 
@@ -99,7 +99,7 @@ In our next session, we'll build on this foundation to explore practical collabo
 - What tasks drain your energy that AI might handle?
 - How can you maintain ownership of your intellectual work?
 
-[Continue to Hour 2: Smart Collaboration →](/hour2)
+[Continue to Hour 2: Smart Collaboration →]({{ '/hour2' | relative_url }})
 
 ---
 

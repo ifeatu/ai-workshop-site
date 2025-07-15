@@ -207,13 +207,13 @@
     <nav>
         <div class="container">
             <ul>
-                <li><a href="/" {% if page.url == "/" %}class="current"{% endif %}>Home</a></li>
-                <li><a href="/hour1" {% if page.url == "/hour1" %}class="current"{% endif %}>Hour 1</a></li>
-                <li><a href="/hour2" {% if page.url == "/hour2" %}class="current"{% endif %}>Hour 2</a></li>
-                <li><a href="/hour3" {% if page.url == "/hour3" %}class="current"{% endif %}>Hour 3</a></li>
-                <li><a href="/hour4" {% if page.url == "/hour4" %}class="current"{% endif %}>Hour 4</a></li>
-                <li><a href="/hour5" {% if page.url == "/hour5" %}class="current"{% endif %}>Hour 5</a></li>
-                <li><a href="/resources" {% if page.url == "/resources" %}class="current"{% endif %}>Resources</a></li>
+                <li><a href="{{ '/' | relative_url }}" {% if page.url == "/" %}class="current"{% endif %}>Home</a></li>
+                <li><a href="{{ '/hour1' | relative_url }}" {% if page.url == "/hour1" %}class="current"{% endif %}>Hour 1</a></li>
+                <li><a href="{{ '/hour2' | relative_url }}" {% if page.url == "/hour2" %}class="current"{% endif %}>Hour 2</a></li>
+                <li><a href="{{ '/hour3' | relative_url }}" {% if page.url == "/hour3" %}class="current"{% endif %}>Hour 3</a></li>
+                <li><a href="{{ '/hour4' | relative_url }}" {% if page.url == "/hour4" %}class="current"{% endif %}>Hour 4</a></li>
+                <li><a href="{{ '/hour5' | relative_url }}" {% if page.url == "/hour5" %}class="current"{% endif %}>Hour 5</a></li>
+                <li><a href="{{ '/resources' | relative_url }}" {% if page.url == "/resources" %}class="current"{% endif %}>Resources</a></li>
             </ul>
         </div>
     </nav>
