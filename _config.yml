@@ -1,0 +1,26 @@
+title: Cognitive Sovereignty in the AI Age
+description: Building Critical Thinking Skills for Students, Professionals, and Life
+author: Church of the Latter Rain Youth
+baseurl: ""
+url: ""
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+navigation:
+  - title: Home
+    url: /
+  - title: Hour 1 - The AI Mirror
+    url: /hour1
+  - title: Hour 2 - Smart Collaboration
+    url: /hour2
+  - title: Hour 3 - Information vs Understanding
+    url: /hour3
+  - title: Hour 4 - Future-Proofing
+    url: /hour4
+  - title: Hour 5 - Personal AI Strategy
+    url: /hour5
+  - title: Resources
+    url: /resources
