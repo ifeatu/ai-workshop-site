@@ -6,7 +6,7 @@ title: Hour 5 - Your Personal AI Strategy
 # Hour 5: Your Personal AI Strategy
 ## Integration and Personal Framework Development
 
-[← Back to Home]({{ '/' | relative_url }}) | [← Hour 4]({{ '/hour4' | relative_url }}) | [Resources →]({{ '/resources' | relative_url }})
+[← Back to Home](../) | [← Hour 4](../hour4) | [Resources →](../resources)
 
 ### Capstone Project: Design Your Personal AI Operating System
 
@@ -261,7 +261,7 @@ Remember:
 - Recommended readings
 - Progress tracking tools
 
-[Explore Resources →]({{ '/resources' | relative_url }})
+[Explore Resources →](../resources)
 
 ---
 

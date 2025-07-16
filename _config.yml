@@ -1,8 +1,8 @@
 title: Cognitive Sovereignty in the AI Age
 description: Building Critical Thinking Skills for Students, Professionals, and Life
 author: Church of the Latter Rain Youth
-baseurl: ""
-url: ""
+baseurl: "/ai-workshop-site"
+url: "https://ifeatu.github.io"
 
 theme: jekyll-theme-cayman
 

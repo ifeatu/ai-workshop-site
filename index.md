@@ -25,12 +25,12 @@ This full-day workshop is designed to equip you with practical skills and critic
 
 | Time | Session | Focus |
 |------|---------|--------|
-| **Hour 1** | [The AI Mirror]({{ '/hour1' | relative_url }}) | Foundation - Understanding what AI can and can't do |
-| **Hour 2** | [Smart Collaboration]({{ '/hour2' | relative_url }}) | Practical Skills - Using AI effectively in study and work |
+| **Hour 1** | [The AI Mirror](hour1) | Foundation - Understanding what AI can and can't do |
+| **Hour 2** | [Smart Collaboration](hour2) | Practical Skills - Using AI effectively in study and work |
 | **Break** | | |
-| **Hour 3** | [Information vs Understanding]({{ '/hour3' | relative_url }}) | Critical Thinking - Evaluating AI outputs |
-| **Hour 4** | [Future-Proofing Your Capabilities]({{ '/hour4' | relative_url }}) | Strategic Development - Building AI-resistant skills |
-| **Hour 5** | [Your Personal AI Strategy]({{ '/hour5' | relative_url }}) | Integration - Creating your framework |
+| **Hour 3** | [Information vs Understanding](hour3) | Critical Thinking - Evaluating AI outputs |
+| **Hour 4** | [Future-Proofing Your Capabilities](hour4) | Strategic Development - Building AI-resistant skills |
+| **Hour 5** | [Your Personal AI Strategy](hour5) | Integration - Creating your framework |
 
 ### Who Should Attend
 
@@ -50,7 +50,7 @@ By the end of this workshop, you will:
 
 ### Getting Started
 
-Ready to begin? Start with [Hour 1: The AI Mirror]({{ '/hour1' | relative_url }}) to build your foundation for cognitive sovereignty in the AI age.
+Ready to begin? Start with [Hour 1: The AI Mirror](hour1) to build your foundation for cognitive sovereignty in the AI age.
 
 ---
 

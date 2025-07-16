@@ -6,7 +6,7 @@ title: Hour 2 - Smart Collaboration
 # Hour 2: Smart Collaboration
 ## Practical Skills for Students and Professionals
 
-[← Back to Home]({{ '/' | relative_url }}) | [← Hour 1]({{ '/hour1' | relative_url }}) | [Hour 3 →]({{ '/hour3' | relative_url }})
+[← Back to Home](../) | [← Hour 1](../hour1) | [Hour 3 →](../hour3)
 
 ### The Collaboration Mindset
 
@@ -185,7 +185,7 @@ Next, we'll dive deeper into critical thinking and information evaluation. Consi
 - What makes you trust or distrust a source?
 - When has your intuition disagreed with "expert" opinion?
 
-[Continue to Hour 3: Information vs Understanding →]({{ '/hour3' | relative_url }})
+[Continue to Hour 3: Information vs Understanding →](../hour3)
 
 ---
 

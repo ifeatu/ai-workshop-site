@@ -6,7 +6,7 @@ title: Hour 3 - Information vs Understanding
 # Hour 3: Information vs Understanding
 ## Developing Critical Thinking in the AI Age
 
-[← Back to Home]({{ '/' | relative_url }}) | [← Hour 2]({{ '/hour2' | relative_url }}) | [Hour 4 →]({{ '/hour4' | relative_url }})
+[← Back to Home](../) | [← Hour 2](../hour2) | [Hour 4 →](../hour4)
 
 ### The Expertise Challenge
 
@@ -229,7 +229,7 @@ Next, we'll focus on building skills that remain uniquely human. Reflect on:
 - When have you solved problems in ways AI couldn't?
 - What aspects of your work bring you meaning?
 
-[Continue to Hour 4: Future-Proofing Your Capabilities →]({{ '/hour4' | relative_url }})
+[Continue to Hour 4: Future-Proofing Your Capabilities →](../hour4)
 
 ---
 

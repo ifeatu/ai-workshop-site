@@ -6,7 +6,7 @@ title: Resources
 # Workshop Resources
 ## Tools, Templates, and Continued Learning
 
-[← Back to Home]({{ '/' | relative_url }})
+[← Back to Home](../)
 
 ### Quick Reference Downloads
 
@@ -224,4 +224,4 @@ Remember: In a world of artificial intelligence, your genuine humanity isn't jus
 
 *Keep growing. Stay human. Build the future.*
 
-[← Return to Homepage]({{ '/' | relative_url }})
+[← Return to Homepage](../)
